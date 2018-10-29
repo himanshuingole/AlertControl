@@ -1,0 +1,28 @@
+{
+  "name": "AlertControl",
+  "version": "0.1.0",
+  "summary": "A short description of AlertControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/himanshuingole/AlertControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Himanshu Ingole": "srithimanshu@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Himanshu Ingole/AlertControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.2"
+  },
+  "source_files": "AlertControl/Classes/**/*",
+  "resources": "AlertControl/Assets/*.xib",
+  "resource_bundles": {
+    "AlertControl": [
+      "Pod/**/*.xib"
+    ]
+  }
+}

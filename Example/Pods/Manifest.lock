@@ -1,0 +1,16 @@
+PODS:
+  - AlertControl (0.1.0)
+
+DEPENDENCIES:
+  - AlertControl (from `../`)
+
+EXTERNAL SOURCES:
+  AlertControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AlertControl: 29c14414a7dfb62d13f4036a4ac7a9c9e3782414
+
+PODFILE CHECKSUM: cd60e9966dcc5def23702f08b0008ff330919f12
+
+COCOAPODS: 1.5.3
